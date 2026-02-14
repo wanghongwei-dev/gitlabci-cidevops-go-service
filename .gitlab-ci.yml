@@ -1,0 +1,4 @@
+include:
+    - project: 'cidevops/cidevops-gitlabci-service'
+      ref: master
+      file: 'templates/go-pipeline.yml'
