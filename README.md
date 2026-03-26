@@ -118,4 +118,4 @@ go test -v
 
 ## 许可证
 
-Apache License
+MIT License
